@@ -9,5 +9,8 @@
 	"homepage":     "https://github.com/derhuerst/vbb-find-station",
 	"repository":   "derhuerst/vbb-find-station",
 	"license":      "ISC",
-	"engines":      {"node": ">=4"}
+	"engines":      {"node": ">=4"},
+	"dependencies": {
+		"vbb-find-stations": "^0.5.1"
+	}
 }
