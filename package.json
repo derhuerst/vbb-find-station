@@ -12,5 +12,13 @@
 	"engines":      {"node": ">=4"},
 	"dependencies": {
 		"vbb-find-stations": "^0.5.1"
+	},
+	"devDependencies": {
+		"tape": "^4.5.1",
+		"tap-min": "^1.1"
+	},
+	"scripts": {
+		"test":       "tape test.js | tap-min",
+		"prepublish": "npm test"
 	}
 }
