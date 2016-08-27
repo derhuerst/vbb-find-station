@@ -9,6 +9,7 @@
 [![dependency status](https://img.shields.io/david/derhuerst/vbb-find-station.svg)](https://david-dm.org/derhuerst/vbb-find-station)
 [![dev dependency status](https://img.shields.io/david/dev/derhuerst/vbb-find-station.svg)](https://david-dm.org/derhuerst/vbb-find-station#info=devDependencies)
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/vbb-find-station.svg)
+[![gitter channel](https://badges.gitter.im/derhuerst/vbb-rest.svg)](https://gitter.im/derhuerst/vbb-rest)
 
 
 ## Installing

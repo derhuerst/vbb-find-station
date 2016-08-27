@@ -1,7 +1,7 @@
 {
 	"name":         "vbb-find-station",
 	"description":  "Search for a VBB station.",
-	"version":      "0.3.0",
+	"version":      "0.4.0",
 	"main":         "index.js",
 	"files":        ["index.js"],
 	"keywords":     ["vbb", "stations", "search", "berlin", "public transport", "open data"],
@@ -11,7 +11,7 @@
 	"license":      "ISC",
 	"engines":      {"node": ">=4"},
 	"dependencies": {
-		"vbb-find-stations": "^0.7.1"
+		"vbb-find-stations": "^1"
 	},
 	"devDependencies": {
 		"tape": "^4.5.1",
