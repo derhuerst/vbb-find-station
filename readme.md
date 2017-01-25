@@ -1,6 +1,6 @@
 # vbb-find-station
 
-**Search for a VBB station.**
+**Search for a VBB station.** Computed from [open](http://daten.berlin.de/datensaetze/vbb-fahrplandaten-januar-2017-bis-dezember-2017) [GTFS](https://developers.google.com/transit/gtfs/) [data](https://vbb-gtfs.jannisr.de/).
 
 *Note*: [vbb-find-stations](https://github.com/derhuerst/vbb-find-stations) provides all stations that match the query. vbb-find-station then returns the most relevant one.
 
